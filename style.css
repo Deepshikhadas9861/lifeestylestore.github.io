@@ -71,7 +71,7 @@ a{
     background-color: rgba(0, 0, 0, 0.7);
     max-width: 2000px;
 }
-center {
+.center {
     display: block;
     text-align: -webkit-center;
 }
@@ -96,11 +96,10 @@ center {
 }
 
 .items{
-	width:30%; 
+	width:30%;
 	display: block; 
-	padding: 4px; 
-	margin-bottom: 20px; 
-	line-height: 1.42857143; 
+	padding: 2px; 
+	margin-bottom: 15px; 
 	background-color: #fff; 
 	border: 1px solid #ddd; 
 	border-radius: 4px; 
@@ -108,8 +107,8 @@ center {
 	margin-left:1%;
 }
 .thumbnail{
-	max-width: 180%; 
-	height: 400px;
+	max-width: 90%; 
+	height: 480px;
 }
 .caption{
 	color:#000; 
